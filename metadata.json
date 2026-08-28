@@ -1,0 +1,6 @@
+{
+  "name": "Last One Laughing",
+  "description": "Fast-paced chaotic multiplayer party-survival game where the rules change every round!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
